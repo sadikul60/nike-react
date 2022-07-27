@@ -1,4 +1,13 @@
 
-.title-bg-dark{
-    background: pink;
+.pengune-bg-primary{
+    background: #fceae8;
+    border: none;
+
+}
+.pengune-btn-danger{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #c90550 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
 }
